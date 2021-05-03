@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋, This is Dinkar Jain. ✨ </h1>
+<h3 align='center'> A full-stack software developer from India </h3>
 
-<!--
-**golden-dino/golden-dino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently working at <kbd>Adcuratio Media Inc.</kbd> as a <kbd>Software Developer</kbd>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an **Analytics based IoT Dashboard**
+ 
+- 🌱 I’m currently learning **State Management**
+ 
+- 💻 All of my projects are available at [https://github.com/golden-dino](https://github.com/)
+ 
+- 📫 How to reach me: **jain.dinkar675@gmail.com**
