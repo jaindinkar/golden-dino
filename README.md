@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently working at <kbd>Adcuratio Media Inc.</kbd> as a <kbd>Software Developer</kbd>
 
-- 🔭 I’m currently working on an **Analytics based IoT Dashboard**
+- 🔭 I’m currently working on an **Analytics Based Management Dashboard**
  
 - 🌱 I’m currently learning **State Management**
  
