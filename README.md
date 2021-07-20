@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on an **Analytics Based Management Dashboard**
  
-- 🌱 I’m currently learning **State Management**
+- 🌱 I’m currently learning **MST**
  
 - 💻 All of my projects are available at [https://github.com/golden-dino](https://github.com/)
  
