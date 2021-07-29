@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on an **Analytics Based Management Dashboard**
  
-- 🌱 I’m currently learning **MST**
+- 🌱 I’m currently learning **React APIs** in depth.
  
 - 💻 All of my projects are available at [https://github.com/golden-dino](https://github.com/)
  
